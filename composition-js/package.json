@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@apollo/federation-internals": "2.10.0",
-    "@apollo/query-graphs": "2.10.0"
+    "@apollo/query-graphs": "2.10.1"
   },
   "peerDependencies": {
     "graphql": "^16.5.0"
