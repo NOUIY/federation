@@ -25,7 +25,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@apollo/federation-internals": "2.10.0",
+    "@apollo/federation-internals": "2.10.2",
     "@apollo/query-graphs": "2.10.0",
     "@apollo/utils.keyvaluecache": "^2.1.0",
     "chalk": "^4.1.0",
